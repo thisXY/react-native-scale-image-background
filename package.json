@@ -1,0 +1,22 @@
+{
+  "name": "react-native-scale-image-background",
+  "version": "1.0.1",
+  "description": "react native 根据样式(width、maxWidth、minWidth、height、maxHeight、minHeight)自动适配等比缩放背景图片,无需都设置宽高度",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thisXY/react-native-scale-image-background.git"
+  },
+  "homepage": "https://github.com/thisXY/react-native-scale-image-background#readme",
+  "keywords": [
+    "react native scale image",
+    "image",
+    "等比缩放背景图片"
+  ],
+  "main": "src/index.js",
+  "author": "XY",
+  "email": "543230241@qq.com",
+  "dependencies": {
+    "react-native-scale-image": "^1.0.1"
+  }
+}
