@@ -5,17 +5,17 @@
 
 react native 根据样式(width、maxWidth、minWidth、height、maxHeight、minHeight)自动适配等比缩放背景图片,且无需都设置宽高度
 
-### 安装
-
-| parameter                     | type                                       | required | description                 
-| :---------------------------- | :----------------------------------------- | :------- | :----------
-| imageRef                      | func                                       | no       | 获取图片ref                     
+### 安装                   
 
 ```bash
 npm install react-native-scale-image-background --save
 ```
 
 ### 属性/方法
+
+| parameter                     | type                                       | required | description                 
+| :---------------------------- | :----------------------------------------- | :------- | :----------
+| imageRef                      | func                                       | no       | 获取图片ref  
 
 ```bash
 react native image 所有属性/方法
